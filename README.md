@@ -33,11 +33,24 @@ This repository implements the automatic generation of the equations (lattice), 
 
 ---
 
+## Usage
+
+* It can only run in *`SAGEMATH`* environment.
+
+```bash
+git clone https://github.com/X3NNY/RSA-extending-wiener-attack.git
+cd ./RSA-extending-wiener-attack/
+pip intall -r requirements.txt
+sage rsa_extending_wiener_attack.sage
+```
+
+---
+
 ## Example
 
 Here is an example of the implementation.
 
-*TODO: Add example gif or png.*
+![example](images/example.png)
 
 ---
 
