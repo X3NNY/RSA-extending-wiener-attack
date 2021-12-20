@@ -33,6 +33,14 @@ This repository implements the automatic generation of the equations (lattice), 
 
 ---
 
+## Example
+
+Here is an example of the implementation.
+
+*TODO: Add example gif or png.*
+
+---
+
 The BibTeX of the original paper:
 
 ```bibtex
