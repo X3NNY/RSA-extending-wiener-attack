@@ -40,7 +40,7 @@ This repository implements the automatic generation of the equations (lattice), 
 ```bash
 git clone https://github.com/X3NNY/RSA-extending-wiener-attack.git
 cd ./RSA-extending-wiener-attack/
-pip intall -r requirements.txt
+sage --pip intall -r requirements.txt
 sage rsa_extending_wiener_attack.sage
 ```
 
